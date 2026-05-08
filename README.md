@@ -15,7 +15,7 @@ This project uses OpenCV and face_recognition library to detect and recognize fa
 
 ##  Installation
 
-```bash
+```
 pip install -r requirements.txt
 ```
 
@@ -25,19 +25,19 @@ pip install -r requirements.txt
 
 ### Step 1: Add Faces
 
-```bash
+```
 python add_faces.py
 ```
 
 ### Step 2: Train Model
 
-```bash
+```
 python train_model.py
 ```
 
 ### Step 3: Start Recognition
 
-```bash
+```
 python recognize.py
 ```
 
