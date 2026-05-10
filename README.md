@@ -63,6 +63,7 @@ dataset/
 
 ##  Output
 
+Webcam opens and recognizes faces with names displayed.
 * Faces are detected with bounding boxes
 * Recognized faces show names
 * Unknown faces labeled as "Unknown"
